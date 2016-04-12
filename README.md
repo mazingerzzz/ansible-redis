@@ -1,7 +1,7 @@
 Redis Ansible Role
 =========
 
-![HE:Labs](https://raw.githubusercontent.com/Helabs/helabs.github.com/master/images/logo.png "HE:Labs")
+![HE:Labs](http://helabs.com/images/brand-helabs.png "HE:Labs")
 
 This is a simple role, based on [DavidWittman/ansible-redis](https://github.com/DavidWittman/ansible-redis)
 that installs redis.
